@@ -25,7 +25,7 @@
 ## 📂 Proyectos Destacados
 - [Portafolio Personal](https://github.com/jovyscript/portafolio-web) *(en construcción)*  
 - [BigQuery Dashboard](https://github.com/jovyscript/bigquery-dashboard) *(SQL + visualizaciones)*  
-- [La Singular E-commerce] *(en construcción)* 
+- [App Canciones Core](https://github.com/jovyscript/canciones.git) 
 
 ---
 
