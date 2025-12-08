@@ -1,7 +1,14 @@
-# 👋 Hola, soy Jovelly Dominique (Jovy)
+# 👋 Hola 🌎, soy Jovelly Dominique (Jovy)
 
-💻 **Desarrolladora Web & Analista de Datos** con experiencia en **Google Cloud, SQL, BigQuery, WordPress/WooCommerce**  
-🚀 Me apasiona integrar tecnología con visión de negocio para crear soluciones simples, útiles y escalables.  
+**Desarrolladora Full Stack Java Junior | GCP Cloud | Analista Programadora**
+
+https://img.shields.io/badge/Open%20To%20Work-brightgreen
+
+💻 Mi perfil combina una Certificación Full Stack Java (180h) con experiencia corporativa en IBM en el entorno Google Cloud Platform (GCP). Busco activamente mi primer rol Junior para construir soluciones con visión de negocio.
+
+🌐 ¡Mira Mi Portafolio Web! 🚀
+
+👉 https://jovyjs.com/
 
 ---
 
@@ -23,20 +30,13 @@
 ---
 
 ## 📂 Proyectos Destacados
-- [Portafolio Personal](https://github.com/jovyscript/portafolio-web) *(en construcción)*  
-- [BigQuery Dashboard](https://github.com/jovyscript/bigquery-dashboard) *(SQL + visualizaciones)*  
+- [Portafolio Personal](https://github.com/jovyscript/portafolio-jovyjs)  
+- [Pagina web de Noticias](https://github.com/jovyscript/theresistance-web)  
 - [App Canciones Core](https://github.com/jovyscript/canciones.git) 
-
----
-
-## 📈 Actualmente aprendiendo
-- 🔹 Java y SpringBoot para desarrollo full stack  
-
----
 
 ## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovelly-dominique-pino-madrid-041985277/)  
-📧 jovelly.pino@gmail.com  
+📧 hello@jovyjs.com 
 
 ---
 
