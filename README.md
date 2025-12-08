@@ -2,7 +2,7 @@
 
 **Desarrolladora Full Stack Java Junior | GCP Cloud | Analista Programadora**
 
-https://img.shields.io/badge/Open%20To%20Work-brightgreen
+![available](https://img.shields.io/badge/Open%20To%20Work-brightgreen)
 
 💻 Mi perfil combina una Certificación Full Stack Java (180h) con experiencia corporativa en IBM en el entorno Google Cloud Platform (GCP). Busco activamente mi primer rol Junior para construir soluciones con visión de negocio.
 
