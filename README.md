@@ -31,7 +31,7 @@
 
 ## 📂 Proyectos Destacados
 - [Portafolio Personal](https://github.com/jovyscript/portafolio-jovyjs)  
-- [Pagina web de Noticias](https://github.com/jovyscript/theresistance-web) [Demo](theresistance.cl) 
+- [Pagina web de Noticias](https://github.com/jovyscript/theresistance-web)  [Demo](https://theresistance.cl/) 
 - [App Canciones Core](https://github.com/jovyscript/canciones.git) 
 
 ## 📫 Conecta conmigo
